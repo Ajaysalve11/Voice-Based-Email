@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "632190241568",
+    "firebase_url": "https://voicemail-master.firebaseio.com",
+    "project_id": "voicemail-master",
+    "storage_bucket": "voicemail-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632190241568:android:c0ec17a89e5f932a",
+        "android_client_info": {
+          "package_name": "thegenuinegourav.voicemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632190241568-7bgnkvpg2khb9ar7kb7f018pc16u7cvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlKO04dyzqg3m3r358wMaKw1twfIyiWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

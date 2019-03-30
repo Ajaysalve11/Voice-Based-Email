@@ -1,0 +1,16 @@
+<resources>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="app_name">Voice Mail</string>
+    <string name="compose">Compose</string>
+    <string name="inbox">Inbox</string>
+    <string name="sent">Sent</string>
+    <string name="user">User</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_user_home">UserHomeActivity</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="title_activity_inbox">InboxActivity</string>
+
+</resources>
